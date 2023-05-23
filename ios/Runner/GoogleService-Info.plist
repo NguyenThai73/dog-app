@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>939936870034-74uodc85aalapfd5qq7v0fapgs5u3t1a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.939936870034-74uodc85aalapfd5qq7v0fapgs5u3t1a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDUhi9XYnfCx_QcJKDPFN1_kwinn4CgGg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>939936870034</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dogApp</string>
+	<key>PROJECT_ID</key>
+	<string>dog-app-ec6ec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dog-app-ec6ec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:939936870034:ios:519c00a9fb521fed06404b</string>
+</dict>
+</plist>

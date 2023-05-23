@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "939936870034",
+    "firebase_url": "https://dog-app-ec6ec-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dog-app-ec6ec",
+    "storage_bucket": "dog-app-ec6ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939936870034:android:12d68ae563cd231d06404b",
+        "android_client_info": {
+          "package_name": "com.example.dog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939936870034-v8fjru7hbt7fouonbg1tpl82oi0gug2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvzvP7uI6OGKc4S0IaB_2Q33od-kn2bdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939936870034-kdtjujh4343b59vh2hgej1a46gi89iue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939936870034-74uodc85aalapfd5qq7v0fapgs5u3t1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dogApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
